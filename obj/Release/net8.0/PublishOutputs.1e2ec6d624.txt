@@ -1,0 +1,13 @@
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\bin\Release\net8.0\publish\DashboardApp.exe
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\bin\Release\net8.0\publish\out\web.config
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\bin\Release\net8.0\publish\appsettings.json
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\bin\Release\net8.0\publish\out\appsettings.Development.json
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\bin\Release\net8.0\publish\out\appsettings.json
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\bin\Release\net8.0\publish\out\DashboardApp.deps.json
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\bin\Release\net8.0\publish\out\DashboardApp.runtimeconfig.json
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\bin\Release\net8.0\publish\out\DashboardApp.staticwebassets.endpoints.json
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\bin\Release\net8.0\publish\DashboardApp.dll
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\bin\Release\net8.0\publish\DashboardApp.deps.json
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\bin\Release\net8.0\publish\DashboardApp.runtimeconfig.json
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\bin\Release\net8.0\publish\DashboardApp.pdb
