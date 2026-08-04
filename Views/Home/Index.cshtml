@@ -1,0 +1,1510 @@
+﻿@model List<DashboardApp.Models.DashboardRecord>
+
+@{
+    ViewData["Title"] = "Dashboard";
+
+    var totalRecords = Model.Count;
+    var totalQty = Model.Sum(x => x.Qty);
+    var totalMrp = Model.Sum(x => x.Mrp);
+
+    var uniqueClients = Model
+        .Select(x => x.ClientName)
+        .Where(x => !string.IsNullOrWhiteSpace(x))
+        .Distinct(StringComparer.OrdinalIgnoreCase)
+        .Count();
+
+    var documentCount = Model
+        .Select(x => x.DocNo)
+        .Where(x => !string.IsNullOrWhiteSpace(x))
+        .Distinct()
+        .Count();
+
+    var articleCount = Model
+        .Select(x => x.ArtName)
+        .Where(x => !string.IsNullOrWhiteSpace(x))
+        .Distinct(StringComparer.OrdinalIgnoreCase)
+        .Count();
+
+    var records = Model
+        .OrderByDescending(x => x.DocDate)
+        .ToList();
+
+
+    var clientOptions = Model
+        .Select(x => x.ClientName)
+        .Where(x => !string.IsNullOrWhiteSpace(x))
+        .Distinct(StringComparer.OrdinalIgnoreCase)
+        .OrderBy(x => x)
+        .ToList();
+
+
+    var articleOptions = Model
+        .Select(x => x.ArtName)
+        .Where(x => !string.IsNullOrWhiteSpace(x))
+        .Distinct(StringComparer.OrdinalIgnoreCase)
+        .OrderBy(x => x)
+        .ToList();
+
+
+    // Client Chart Data
+
+    var topClients = Model
+        .Where(x => !string.IsNullOrWhiteSpace(x.ClientName))
+        .GroupBy(x => x.ClientName,StringComparer.OrdinalIgnoreCase)
+        .Select(g => new
+        {
+            Client = g.Key,
+            Qty = g.Sum(x => x.Qty)
+        })
+        .OrderByDescending(x=>x.Qty)
+        .Take(5)
+        .ToList();
+
+
+    var topClientLabels =
+        System.Text.Json.JsonSerializer.Serialize(
+            topClients.Select(x=>x.Client)
+        );
+
+
+    var topClientValues =
+        System.Text.Json.JsonSerializer.Serialize(
+            topClients.Select(x=>x.Qty)
+        );
+
+
+
+    // Colour Chart Data
+
+    var colourGroups = Model
+        .Where(x=>!string.IsNullOrWhiteSpace(x.Colour))
+        .GroupBy(x=>x.Colour,StringComparer.OrdinalIgnoreCase)
+        .Select(g=>new
+        {
+            Colour=g.Key,
+            Qty=g.Sum(x=>x.Qty)
+        })
+        .OrderByDescending(x=>x.Qty)
+        .ToList();
+
+
+    var colourLabels = colourGroups
+        .Take(4)
+        .Select(x=>x.Colour)
+        .ToList();
+
+
+    var colourValues = colourGroups
+        .Take(4)
+        .Select(x=>x.Qty)
+        .ToList();
+
+
+    var otherQty = colourGroups
+        .Skip(4)
+        .Sum(x=>x.Qty);
+
+
+    if(otherQty > 0)
+    {
+        colourLabels.Add("Others");
+        colourValues.Add(otherQty);
+    }
+
+
+    var colourLabelsJson =
+        System.Text.Json.JsonSerializer.Serialize(colourLabels);
+
+
+    var colourValuesJson =
+        System.Text.Json.JsonSerializer.Serialize(colourValues);
+
+}
+
+
+
+<!-- ================= HERO ================= -->
+
+<div class="hero-wrapper">
+
+<section class="hero-section">
+
+
+    <div class="hero-slide active">
+
+        <img src="~/images/dashboard1.jpg" />
+
+
+        <div class="hero-overlay"></div>
+
+
+        <div class="hero-content">
+
+
+            <span class="hero-badge">
+                🟢 LIVE ANALYTICS
+            </span>
+
+
+            <h1>
+                Smart Business Dashboard
+            </h1>
+
+
+            <p>
+                Track inventory, analyze performance
+                and monitor real-time business data.
+            </p>
+
+
+            <button onclick="scrollToDashboard()">
+                Explore Dashboard →
+            </button>
+
+
+        </div>
+
+
+    </div>
+
+
+
+    <div class="hero-slide">
+
+        <img src="~/images/dashboard2.jpg" />
+
+        <div class="hero-overlay"></div>
+
+
+        <div class="hero-content">
+
+
+            <span class="hero-badge">
+                📊 BUSINESS INTELLIGENCE
+            </span>
+
+
+            <h1>
+                Data Driven Insights
+            </h1>
+
+
+            <p>
+                Convert raw API data into powerful
+                business reports.
+            </p>
+
+
+            <button onclick="scrollToDashboard()">
+                View Reports →
+            </button>
+
+
+        </div>
+
+
+    </div>
+
+
+
+
+    <div class="hero-slide">
+
+        <img src="~/images/dashboard3.jpg" />
+
+        <div class="hero-overlay"></div>
+
+
+        <div class="hero-content">
+
+
+            <span class="hero-badge">
+                ☁ CLOUD PLATFORM
+            </span>
+
+
+            <h1>
+                Manage Data Smarter
+            </h1>
+
+
+            <p>
+                Connect APIs and visualize your
+                business workflow.
+            </p>
+
+
+            <button onclick="scrollToDashboard()">
+                Get Started →
+            </button>
+
+
+        </div>
+
+
+    </div>
+
+
+
+    <div class="hero-dots">
+
+        <span class="active"
+              onclick="changeSlide(0)">
+        </span>
+
+        <span onclick="changeSlide(1)">
+        </span>
+
+        <span onclick="changeSlide(2)">
+        </span>
+
+    </div>
+
+
+
+</section>
+</div>
+
+
+<!-- ================= DASHBOARD WRAPPER ================= -->
+
+
+<div class="dashboard" id="dashboard">
+
+
+@if(ViewBag.ApiError != null)
+{
+    <div class="api-error-banner">
+
+        <strong>
+            Couldn't load live data.
+        </strong>
+
+        <span>
+            @ViewBag.ApiError
+        </span>
+
+    </div>
+}
+
+
+
+<div class="page-heading">
+
+
+    <div>
+
+        <div class="page-title-row">
+
+            <h1>
+                Dashboard Overview
+            </h1>
+
+
+            <span class="live-badge">
+
+                <span class="live-dot"></span>
+
+                LIVE DATA
+
+            </span>
+
+
+        </div>
+
+
+        <p>
+            Monitor documents, clients, articles and quantities.
+        </p>
+
+
+    </div>
+
+
+
+    <div class="header-actions">
+
+
+        <div class="last-updated">
+
+            <span>
+                Last Updated
+            </span>
+
+
+            <strong>
+                @DateTime.Now.ToString("dd MMM yyyy hh:mm tt")
+            </strong>
+
+        </div>
+
+
+        <button class="refresh-button"
+                onclick="location.reload()">
+
+            ↻ Refresh
+
+        </button>
+
+
+    </div>
+
+
+</div>
+<!-- ================= KPI CARDS ================= -->
+
+
+<section class="kpi-grid">
+
+
+<div class="kpi-card">
+
+    <div class="kpi-icon blue">
+        #
+    </div>
+
+    <div class="kpi-content">
+
+        <p>Total Records</p>
+
+        <h2>
+            @totalRecords.ToString("N0")
+        </h2>
+
+        <span>API Records</span>
+
+    </div>
+
+</div>
+
+
+
+
+<div class="kpi-card">
+
+    <div class="kpi-icon green">
+        Q
+    </div>
+
+    <div class="kpi-content">
+
+        <p>Total Quantity</p>
+
+        <h2>
+            @totalQty.ToString("N0")
+        </h2>
+
+        <span>Total Items</span>
+
+    </div>
+
+</div>
+
+
+
+
+<div class="kpi-card">
+
+    <div class="kpi-icon purple">
+        C
+    </div>
+
+    <div class="kpi-content">
+
+        <p>Clients</p>
+
+        <h2>
+            @uniqueClients.ToString("N0")
+        </h2>
+
+        <span>Active Clients</span>
+
+    </div>
+
+</div>
+
+
+
+
+<div class="kpi-card">
+
+    <div class="kpi-icon orange">
+        ₹
+    </div>
+
+    <div class="kpi-content">
+
+        <p>Total MRP</p>
+
+        <h2>
+            ₹@totalMrp.ToString("N0")
+        </h2>
+
+        <span>Total Value</span>
+
+    </div>
+
+</div>
+
+
+
+
+<div class="kpi-card">
+
+    <div class="kpi-icon red">
+        A
+    </div>
+
+    <div class="kpi-content">
+
+        <p>Articles</p>
+
+        <h2>
+            @articleCount.ToString("N0")
+        </h2>
+
+        <span>Products</span>
+
+    </div>
+
+</div>
+
+
+</section>
+
+
+
+
+
+<!-- ================= CHART SECTION ================= -->
+
+
+<section class="charts-grid">
+
+
+<div class="dashboard-card">
+
+
+    <div class="card-header">
+
+        <div>
+
+            <h2>
+                Top 5 Clients
+            </h2>
+
+            <p>
+                Highest quantity clients
+            </p>
+
+        </div>
+
+
+    </div>
+
+
+
+    <div class="chart-box">
+
+        <canvas id="topClientsChart"></canvas>
+
+    </div>
+
+
+</div>
+
+
+
+
+
+<div class="dashboard-card">
+
+
+    <div class="card-header">
+
+        <div>
+
+            <h2>
+                Quantity By Colour
+            </h2>
+
+
+            <p>
+                Product colour distribution
+            </p>
+
+
+        </div>
+
+
+    </div>
+
+
+
+    <div class="chart-box chart-box-donut">
+
+        <canvas id="colourChart"></canvas>
+
+    </div>
+
+
+</div>
+
+
+
+</section>
+
+
+
+
+
+
+
+<!-- ================= DATA TABLE ================= -->
+
+
+<section class="dashboard-card">
+
+
+
+<div class="card-header">
+
+
+<div>
+
+<h2>
+Recent Data
+</h2>
+
+
+<p>
+Latest records from API
+</p>
+
+
+</div>
+
+
+
+
+<div class="card-actions">
+
+
+<button class="secondary-button"
+onclick="exportCSV()">
+
+↓ Export CSV
+
+</button>
+
+
+
+<button class="secondary-button"
+onclick="window.print()">
+
+🖨 Print
+
+</button>
+
+
+
+</div>
+
+
+</div>
+
+
+
+
+
+
+
+<div class="table-toolbar">
+
+
+<div class="search-box">
+
+
+<span>
+🔍
+</span>
+
+
+<input id="searchInput"
+       type="text"
+       placeholder="Search documents, clients..."
+       onkeyup="applyFilters()" />
+
+
+</div>
+
+
+
+
+
+<select id="clientFilter"
+        onchange="applyFilters()">
+
+
+<option value="">
+All Clients
+</option>
+
+
+@foreach(var client in clientOptions)
+{
+
+<option value="@client">
+@client
+</option>
+
+}
+
+
+</select>
+
+
+
+
+
+
+<select id="articleFilter"
+        onchange="applyFilters()">
+
+
+<option value="">
+All Articles
+</option>
+
+
+@foreach(var article in articleOptions)
+{
+
+<option value="@article">
+@article
+</option>
+
+}
+
+
+</select>
+
+
+
+
+
+
+<div class="date-range">
+
+
+<span>
+From
+</span>
+
+
+<input type="date"
+       id="dateFrom"
+       onchange="applyFilters()" />
+
+
+
+<span>
+To
+</span>
+
+
+<input type="date"
+       id="dateTo"
+       onchange="applyFilters()" />
+
+
+</div>
+
+
+
+
+<span id="recordCount"
+      class="record-count">
+
+Showing @totalRecords records
+
+</span>
+
+
+
+</div>
+
+
+
+
+
+
+
+<div class="data-table-wrapper">
+
+
+<table id="dashboardTable">
+
+
+<thead>
+
+<tr>
+
+<th>Date</th>
+
+<th>Document</th>
+
+<th>Client</th>
+
+<th>Article ID</th>
+
+<th>Article</th>
+
+<th>Qty</th>
+
+<th>Size</th>
+
+<th>Colour</th>
+
+<th>Unit</th>
+
+<th>MRP</th>
+
+
+</tr>
+
+</thead>
+
+
+
+
+
+<tbody>
+
+
+@foreach(var record in records)
+{
+
+
+var isoDate = record.DocDate.HasValue 
+? record.DocDate.Value.ToString("yyyy-MM-dd")
+: "";
+
+
+
+<tr class="data-row"
+    data-date="@isoDate">
+
+
+<td>
+@record.DocDateDisplay
+</td>
+
+
+<td class="doc-number">
+@record.DocNo
+</td>
+
+
+<td class="client-name">
+@record.ClientName
+</td>
+
+
+<td>
+@record.ArtId
+</td>
+
+
+<td class="article-name">
+@record.ArtName
+</td>
+
+
+<td class="number-cell">
+@record.Qty.ToString("N0")
+</td>
+
+
+<td>
+@record.Size
+</td>
+
+
+<td>
+
+<span class="colour-badge">
+@record.Colour
+</span>
+
+</td>
+
+
+<td>
+@record.Unit
+</td>
+
+
+<td class="mrp-cell">
+
+₹@record.Mrp.ToString("N0")
+
+</td>
+
+
+</tr>
+
+
+}
+
+
+
+</tbody>
+
+
+</table>
+
+
+
+</div>
+<!-- ================= PAGINATION ================= -->
+
+<div class="pagination-bar">
+
+
+<select id="pageSize"
+        class="page-size-select"
+        onchange="changePageSize()">
+
+<option value="25">
+25 per page
+</option>
+
+<option value="50">
+50 per page
+</option>
+
+<option value="100">
+100 per page
+</option>
+
+<option value="all">
+Show All
+</option>
+
+
+</select>
+
+
+
+<div id="paginationControls"
+     class="pagination-controls">
+
+</div>
+
+
+</div>
+
+
+
+</section>
+
+
+
+
+
+
+
+<!-- ================= SUMMARY ================= -->
+
+
+<section class="bottom-grid">
+
+
+<div class="dashboard-card">
+
+
+<div class="card-header">
+
+<div>
+
+<h2>
+Data Summary
+</h2>
+
+<p>
+Overview of API Dataset
+</p>
+
+</div>
+
+</div>
+
+
+
+<div class="summary-grid">
+
+
+<div class="summary-box">
+
+<span>
+Documents
+</span>
+
+<strong>
+@documentCount.ToString("N0")
+</strong>
+
+</div>
+
+
+
+<div class="summary-box">
+
+<span>
+Clients
+</span>
+
+<strong>
+@uniqueClients.ToString("N0")
+</strong>
+
+</div>
+
+
+
+<div class="summary-box">
+
+<span>
+Articles
+</span>
+
+<strong>
+@articleCount.ToString("N0")
+</strong>
+
+</div>
+
+
+
+<div class="summary-box">
+
+<span>
+Records
+</span>
+
+<strong>
+@totalRecords.ToString("N0")
+</strong>
+
+</div>
+
+
+</div>
+
+
+</div>
+
+
+
+
+
+
+<div class="dashboard-card">
+
+
+<div class="card-header">
+
+<div>
+
+<h2>
+Quick Information
+</h2>
+
+<p>
+Dataset Details
+</p>
+
+
+</div>
+
+</div>
+
+
+
+
+<div class="quick-info">
+
+
+<div>
+
+<span>
+Total Records
+</span>
+
+<strong>
+@totalRecords.ToString("N0")
+</strong>
+
+</div>
+
+
+
+<div>
+
+<span>
+Total Quantity
+</span>
+
+<strong>
+@totalQty.ToString("N0")
+</strong>
+
+</div>
+
+
+
+<div>
+
+<span>
+Total MRP
+</span>
+
+<strong>
+₹@totalMrp.ToString("N0")
+</strong>
+
+</div>
+
+
+
+</div>
+
+
+</div>
+
+
+
+</section>
+
+
+
+</div>
+
+
+
+
+
+<!-- ================= CHART JS ================= -->
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.js"></script>
+
+
+
+<script>
+
+
+// ================= HERO SLIDER =================
+
+
+let slides =
+document.querySelectorAll(".hero-slide");
+
+
+let currentSlide = 0;
+
+
+
+function changeSlide(index)
+{
+
+slides[currentSlide]
+.classList.remove("active");
+
+
+currentSlide=index;
+
+
+slides[currentSlide]
+.classList.add("active");
+
+
+}
+
+
+
+setInterval(()=>{
+
+
+let next =
+(currentSlide+1)%slides.length;
+
+
+changeSlide(next);
+
+
+},5000);
+
+
+
+
+
+
+function scrollToDashboard()
+{
+
+document
+.getElementById("dashboard")
+.scrollIntoView(
+{
+behavior:"smooth"
+});
+
+}
+
+
+
+
+
+
+
+// ================= CLIENT CHART =================
+
+
+new Chart(
+document.getElementById("topClientsChart"),
+{
+
+type:"bar",
+
+data:
+{
+
+labels:@Html.Raw(topClientLabels),
+
+
+datasets:[{
+
+data:@Html.Raw(topClientValues),
+
+backgroundColor:"#2563eb",
+
+borderRadius:8
+
+}]
+
+},
+
+
+options:
+{
+
+responsive:true,
+
+maintainAspectRatio:false,
+
+
+plugins:
+{
+
+legend:
+{
+
+display:false
+
+}
+
+}
+
+}
+
+
+});
+
+
+
+
+
+
+
+
+// ================= COLOUR CHART =================
+
+
+new Chart(
+document.getElementById("colourChart"),
+{
+
+
+type:"doughnut",
+
+
+data:
+{
+
+labels:@Html.Raw(colourLabelsJson),
+
+
+datasets:[{
+
+
+data:@Html.Raw(colourValuesJson),
+
+
+backgroundColor:
+[
+"#2563eb",
+"#16a34a",
+"#9333ea",
+"#ea580c",
+"#64748b"
+]
+
+
+}]
+
+
+},
+
+
+
+options:
+{
+
+responsive:true,
+
+maintainAspectRatio:false,
+
+
+cutout:"65%"
+
+}
+
+
+
+});
+
+
+
+
+
+
+
+
+
+// ================= TABLE FILTER =================
+
+
+let pageSize=25;
+
+let currentPage=1;
+
+
+
+function getRows()
+{
+
+return Array.from(
+document.querySelectorAll(".data-row")
+);
+
+}
+
+
+
+
+function applyFilters()
+{
+
+currentPage=1;
+
+renderTable();
+
+}
+
+
+
+
+
+
+function renderTable()
+{
+
+
+let rows=getRows();
+
+
+let search =
+document
+.getElementById("searchInput")
+.value
+.toLowerCase();
+
+
+
+let filtered =
+rows.filter(row=>{
+
+
+return row.innerText
+.toLowerCase()
+.includes(search);
+
+
+});
+
+
+
+rows.forEach(r=>
+r.style.display="none"
+);
+
+
+
+let start =
+(currentPage-1)*pageSize;
+
+
+
+let end =
+start+pageSize;
+
+
+
+filtered
+.slice(start,end)
+.forEach(r=>
+r.style.display=""
+);
+
+
+
+document
+.getElementById("recordCount")
+.innerText =
+"Showing "
++
+filtered.length
++
+" records";
+
+
+
+}
+
+
+
+
+
+function changePageSize()
+{
+
+let value =
+document
+.getElementById("pageSize")
+.value;
+
+
+
+pageSize =
+value==="all"
+?999999
+:parseInt(value);
+
+
+
+renderTable();
+
+
+}
+
+
+
+
+
+
+
+// ================= CSV EXPORT =================
+
+
+function exportCSV()
+{
+
+
+let table =
+document
+.getElementById("dashboardTable");
+
+
+let csv=[];
+
+
+
+table
+.querySelectorAll("tr")
+.forEach(row=>{
+
+
+let cols =
+Array.from(
+row.children
+)
+.map(
+cell=>'"'+cell.innerText+'"'
+);
+
+
+csv.push(cols.join(","));
+
+
+});
+
+
+
+
+let blob =
+new Blob(
+[csv.join("\n")],
+{
+type:"text/csv"
+});
+
+
+
+let link =
+document.createElement("a");
+
+
+link.href =
+URL.createObjectURL(blob);
+
+
+link.download =
+"dashboard-data.csv";
+
+
+link.click();
+
+
+}
+
+
+
+
+
+
+document
+.addEventListener(
+"DOMContentLoaded",
+()=>{
+
+
+renderTable();
+
+
+});
+
+
+
+</script>

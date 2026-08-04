@@ -1,0 +1,301 @@
+C:\Users\DELL\Dashboard\DashboardApp\bin\Debug\net11.0\appsettings.Development.json
+C:\Users\DELL\Dashboard\DashboardApp\bin\Debug\net11.0\appsettings.json
+C:\Users\DELL\Dashboard\DashboardApp\bin\Debug\net11.0\DashboardApp.staticwebassets.runtime.json
+C:\Users\DELL\Dashboard\DashboardApp\bin\Debug\net11.0\DashboardApp.staticwebassets.endpoints.json
+C:\Users\DELL\Dashboard\DashboardApp\bin\Debug\net11.0\DashboardApp.exe
+C:\Users\DELL\Dashboard\DashboardApp\bin\Debug\net11.0\DashboardApp.deps.json
+C:\Users\DELL\Dashboard\DashboardApp\bin\Debug\net11.0\DashboardApp.runtimeconfig.json
+C:\Users\DELL\Dashboard\DashboardApp\bin\Debug\net11.0\DashboardApp.dll
+C:\Users\DELL\Dashboard\DashboardApp\bin\Debug\net11.0\DashboardApp.pdb
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\rpswa.dswa.cache.json
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\DashboardApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\DashboardApp.AssemblyInfoInputs.cache
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\DashboardApp.AssemblyInfo.cs
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\DashboardApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\DashboardApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\DashboardApp.RazorAssemblyInfo.cache
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\DashboardApp.RazorAssemblyInfo.cs
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\rjimswa.dswa.cache.json
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\rjsmrazor.dswa.cache.json
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\rjsmcshtml.dswa.cache.json
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\scopedcss\scopedcss.cache
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\scopedcss\bundle\DashboardApp.styles.css
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\scopedcss\projectbundle\DashboardApp.bundle.scp.css
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\bh8nmrt3yd-{0}-p6n9aczdte-p6n9aczdte.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\0mlg7dd8me-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\ayere3e48a-{0}-7k0s2ld5pn-7k0s2ld5pn.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\0esoioe0lp-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\iq8f5v1wgm-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\lmr5qbr95v-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\afxdpb2i67-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\bflkelfujl-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\exlq5bjucc-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\vcwqnroql4-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\tsgg0bkx14-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\x9xkeb4w8y-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\gsolau6fwm-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\xvr690y6mf-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\ye16zq5ia6-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\32plzt5hx5-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\ft9rqzi88h-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\2gjix19rgb-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\v3mmpeharm-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\2a3gvjmwz2-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\21iirsntwb-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\jx843j0n6c-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\hzzw4z3gnv-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\bnnehq0ym8-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\f1rx0zs4nd-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\5q6pysm815-{0}-06098lyss8-06098lyss8.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\oo6oebm79h-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\o2riszwqt6-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\yv86smvdwl-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\tgw1jahy5s-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\xfyozednes-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\1m5on0me47-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\rk9p5efu4u-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\x83cqnjh6p-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\xant0bjhx7-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\0rtr7wcitt-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\ixetp1c23r-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\zcprdaamgy-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\f8ota3u10y-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\rt105fxax6-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\yvpub9xxj2-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\hhr3okk0bx-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\xkvbqju8bx-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\69rvl2xmut-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\i5ori4gsbu-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\fc8drp1ygr-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\k1ergioej3-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\whw4v3blj9-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\55j3ham2e5-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\4kizzjtrxt-{0}-356vix0kms-356vix0kms.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\24lsicqnpm-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\c4739ao96o-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\ilq1ywudcp-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\a1u0k8l36n-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\ma74xb8n31-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\wiz9a1hm42-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\kxv0u38s2r-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\ml7l37l8tr-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\1r9dbxiqy4-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\7fr9kn2u5y-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\zptec5bh0h-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\s0zplcb88z-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\5eo049o3v3-{0}-mq4g58i2pv-mq4g58i2pv.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\compressed\0rae4sg8ar-{0}-mq4g58i2pv-mq4g58i2pv.gz
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\staticwebassets.build.json
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\staticwebassets.build.json.cache
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\staticwebassets.development.json
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\staticwebassets.build.endpoints.json
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\swae.build.ex.cache
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\DashboardApp.dll
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\refint\DashboardApp.dll
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\DashboardApp.pdb
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\DashboardApp.genruntimeconfig.cache
+C:\Users\DELL\Dashboard\DashboardApp\obj\Debug\net11.0\ref\DashboardApp.dll
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\rpswa.dswa.cache.json
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\DashboardApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\DashboardApp.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\DashboardApp.AssemblyInfo.cs
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\DashboardApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\DashboardApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\DashboardApp.RazorAssemblyInfo.cache
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\DashboardApp.RazorAssemblyInfo.cs
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\DashboardApp.dll
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\refint\DashboardApp.dll
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\DashboardApp.pdb
+C:\Users\DELL\Desktop\DashboardApp - Copy\bin\Debug\net11.0\appsettings.Development.json
+C:\Users\DELL\Desktop\DashboardApp - Copy\bin\Debug\net11.0\appsettings.json
+C:\Users\DELL\Desktop\DashboardApp - Copy\bin\Debug\net11.0\DashboardApp.staticwebassets.runtime.json
+C:\Users\DELL\Desktop\DashboardApp - Copy\bin\Debug\net11.0\DashboardApp.staticwebassets.endpoints.json
+C:\Users\DELL\Desktop\DashboardApp - Copy\bin\Debug\net11.0\DashboardApp.exe
+C:\Users\DELL\Desktop\DashboardApp - Copy\bin\Debug\net11.0\DashboardApp.deps.json
+C:\Users\DELL\Desktop\DashboardApp - Copy\bin\Debug\net11.0\DashboardApp.runtimeconfig.json
+C:\Users\DELL\Desktop\DashboardApp - Copy\bin\Debug\net11.0\DashboardApp.dll
+C:\Users\DELL\Desktop\DashboardApp - Copy\bin\Debug\net11.0\DashboardApp.pdb
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\rjimswa.dswa.cache.json
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\rjsmrazor.dswa.cache.json
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\rjsmcshtml.dswa.cache.json
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\scopedcss\scopedcss.cache
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\scopedcss\bundle\DashboardApp.styles.css
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\scopedcss\projectbundle\DashboardApp.bundle.scp.css
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\0mlg7dd8me-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\ayere3e48a-{0}-7k0s2ld5pn-7k0s2ld5pn.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\0esoioe0lp-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\iq8f5v1wgm-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\lmr5qbr95v-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\afxdpb2i67-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\bflkelfujl-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\exlq5bjucc-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\vcwqnroql4-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\tsgg0bkx14-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\x9xkeb4w8y-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\gsolau6fwm-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\xvr690y6mf-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\ye16zq5ia6-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\32plzt5hx5-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\ft9rqzi88h-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\2gjix19rgb-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\v3mmpeharm-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\2a3gvjmwz2-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\21iirsntwb-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\jx843j0n6c-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\hzzw4z3gnv-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\bnnehq0ym8-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\f1rx0zs4nd-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\5q6pysm815-{0}-06098lyss8-06098lyss8.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\oo6oebm79h-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\o2riszwqt6-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\yv86smvdwl-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\tgw1jahy5s-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\xfyozednes-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\1m5on0me47-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\rk9p5efu4u-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\x83cqnjh6p-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\xant0bjhx7-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\0rtr7wcitt-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\ixetp1c23r-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\zcprdaamgy-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\f8ota3u10y-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\rt105fxax6-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\yvpub9xxj2-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\hhr3okk0bx-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\xkvbqju8bx-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\69rvl2xmut-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\i5ori4gsbu-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\fc8drp1ygr-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\k1ergioej3-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\whw4v3blj9-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\55j3ham2e5-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\4kizzjtrxt-{0}-356vix0kms-356vix0kms.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\24lsicqnpm-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\c4739ao96o-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\ilq1ywudcp-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\a1u0k8l36n-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\ma74xb8n31-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\wiz9a1hm42-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\kxv0u38s2r-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\ml7l37l8tr-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\1r9dbxiqy4-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\7fr9kn2u5y-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\zptec5bh0h-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\s0zplcb88z-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\5eo049o3v3-{0}-mq4g58i2pv-mq4g58i2pv.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\0rae4sg8ar-{0}-mq4g58i2pv-mq4g58i2pv.gz
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\staticwebassets.build.json
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\staticwebassets.build.json.cache
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\staticwebassets.development.json
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\staticwebassets.build.endpoints.json
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\swae.build.ex.cache
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\DashboardApp.genruntimeconfig.cache
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\ref\DashboardApp.dll
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net11.0\compressed\bh8nmrt3yd-{0}-3qw9igbkzt-3qw9igbkzt.gz
+C:\Users\DELL\Desktop\DashboardApp\bin\Debug\net11.0\appsettings.Development.json
+C:\Users\DELL\Desktop\DashboardApp\bin\Debug\net11.0\appsettings.json
+C:\Users\DELL\Desktop\DashboardApp\bin\Debug\net11.0\DashboardApp.staticwebassets.endpoints.json
+C:\Users\DELL\Desktop\DashboardApp\bin\Debug\net11.0\out\web.config
+C:\Users\DELL\Desktop\DashboardApp\bin\Debug\net11.0\out\appsettings.Development.json
+C:\Users\DELL\Desktop\DashboardApp\bin\Debug\net11.0\out\appsettings.json
+C:\Users\DELL\Desktop\DashboardApp\bin\Debug\net11.0\out\DashboardApp.deps.json
+C:\Users\DELL\Desktop\DashboardApp\bin\Debug\net11.0\out\DashboardApp.runtimeconfig.json
+C:\Users\DELL\Desktop\DashboardApp\bin\Debug\net11.0\out\DashboardApp.staticwebassets.endpoints.json
+C:\Users\DELL\Desktop\DashboardApp\bin\Debug\net11.0\DashboardApp.staticwebassets.runtime.json
+C:\Users\DELL\Desktop\DashboardApp\bin\Debug\net11.0\DashboardApp.exe
+C:\Users\DELL\Desktop\DashboardApp\bin\Debug\net11.0\DashboardApp.deps.json
+C:\Users\DELL\Desktop\DashboardApp\bin\Debug\net11.0\DashboardApp.runtimeconfig.json
+C:\Users\DELL\Desktop\DashboardApp\bin\Debug\net11.0\DashboardApp.dll
+C:\Users\DELL\Desktop\DashboardApp\bin\Debug\net11.0\DashboardApp.pdb
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\rpswa.dswa.cache.json
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\DashboardApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\DashboardApp.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\DashboardApp.AssemblyInfo.cs
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\DashboardApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\DashboardApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\DashboardApp.RazorAssemblyInfo.cache
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\DashboardApp.RazorAssemblyInfo.cs
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\DashboardApp.sourcelink.json
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\rjimswa.dswa.cache.json
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\rjsmrazor.dswa.cache.json
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\rjsmcshtml.dswa.cache.json
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\scopedcss\scopedcss.cache
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\scopedcss\bundle\DashboardApp.styles.css
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\scopedcss\projectbundle\DashboardApp.bundle.scp.css
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\bh8nmrt3yd-{0}-3qw9igbkzt-3qw9igbkzt.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\0mlg7dd8me-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\ayere3e48a-{0}-7k0s2ld5pn-7k0s2ld5pn.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\0esoioe0lp-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\iq8f5v1wgm-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\lmr5qbr95v-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\afxdpb2i67-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\bflkelfujl-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\exlq5bjucc-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\vcwqnroql4-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\tsgg0bkx14-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\x9xkeb4w8y-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\gsolau6fwm-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\xvr690y6mf-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\ye16zq5ia6-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\32plzt5hx5-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\ft9rqzi88h-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\2gjix19rgb-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\v3mmpeharm-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\2a3gvjmwz2-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\21iirsntwb-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\jx843j0n6c-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\hzzw4z3gnv-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\bnnehq0ym8-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\f1rx0zs4nd-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\5q6pysm815-{0}-06098lyss8-06098lyss8.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\oo6oebm79h-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\o2riszwqt6-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\yv86smvdwl-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\tgw1jahy5s-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\xfyozednes-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\1m5on0me47-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\rk9p5efu4u-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\x83cqnjh6p-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\xant0bjhx7-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\0rtr7wcitt-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\ixetp1c23r-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\zcprdaamgy-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\f8ota3u10y-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\rt105fxax6-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\yvpub9xxj2-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\hhr3okk0bx-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\xkvbqju8bx-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\69rvl2xmut-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\i5ori4gsbu-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\fc8drp1ygr-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\k1ergioej3-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\whw4v3blj9-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\55j3ham2e5-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\4kizzjtrxt-{0}-356vix0kms-356vix0kms.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\24lsicqnpm-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\c4739ao96o-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\ilq1ywudcp-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\a1u0k8l36n-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\ma74xb8n31-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\wiz9a1hm42-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\kxv0u38s2r-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\ml7l37l8tr-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\1r9dbxiqy4-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\7fr9kn2u5y-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\zptec5bh0h-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\s0zplcb88z-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\5eo049o3v3-{0}-mq4g58i2pv-mq4g58i2pv.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\compressed\0rae4sg8ar-{0}-mq4g58i2pv-mq4g58i2pv.gz
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\staticwebassets.build.json
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\staticwebassets.build.json.cache
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\staticwebassets.development.json
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\staticwebassets.build.endpoints.json
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\swae.build.ex.cache
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\DashboardApp.dll
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\refint\DashboardApp.dll
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\DashboardApp.pdb
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\DashboardApp.genruntimeconfig.cache
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net11.0\ref\DashboardApp.dll

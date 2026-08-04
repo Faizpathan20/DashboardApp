@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\DashboardApp\out\DashboardApp.exe
+C:\Users\DELL\Desktop\DashboardApp\out\appsettings.Development.json
+C:\Users\DELL\Desktop\DashboardApp\out\appsettings.json
+C:\Users\DELL\Desktop\DashboardApp\out\DashboardApp.dll
+C:\Users\DELL\Desktop\DashboardApp\out\DashboardApp.deps.json
+C:\Users\DELL\Desktop\DashboardApp\out\DashboardApp.runtimeconfig.json
+C:\Users\DELL\Desktop\DashboardApp\out\DashboardApp.pdb

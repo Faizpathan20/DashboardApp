@@ -1,0 +1,206 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>@ViewData["Title"] - DashboardApp</title>
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="~/favicon.ico" />
+
+
+    <!-- Theme load before page render -->
+    <script>
+        (function () {
+            const theme = localStorage.getItem("theme");
+
+            if (theme === "dark") {
+                document.documentElement.setAttribute("data-theme", "dark");
+            }
+        })();
+    </script>
+
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+          rel="stylesheet">
+
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+
+</head>
+
+
+<body>
+
+
+<header class="app-header no-print">
+
+    <div class="app-header-inner">
+
+
+        <!-- Logo -->
+        <a class="app-brand"
+           asp-controller="Home"
+           asp-action="Index">
+
+            <span class="app-brand-mark">
+                D
+            </span>
+
+            <span>
+                DashboardApp
+            </span>
+
+        </a>
+
+
+
+        <!-- Navigation -->
+        <nav class="app-nav">
+
+
+            <a asp-controller="Home"
+               asp-action="Index">
+                Dashboard
+            </a>
+
+
+            <a asp-controller="Home"
+               asp-action="Privacy">
+                Privacy
+            </a>
+
+
+
+            <button id="themeToggle"
+                    class="theme-toggle"
+                    type="button">
+
+                <span id="themeIcon">
+                    ☾
+                </span>
+
+            </button>
+
+
+        </nav>
+
+
+    </div>
+
+
+</header>
+
+
+
+
+<main>
+
+    @RenderBody()
+
+</main>
+
+
+
+
+<script>
+
+(function(){
+
+const button =
+document.getElementById("themeToggle");
+
+
+const icon =
+document.getElementById("themeIcon");
+
+
+
+function updateIcon(){
+
+let dark =
+document.documentElement
+.getAttribute("data-theme")
+==="dark";
+
+
+icon.innerHTML =
+dark ? "☀" : "☾";
+
+}
+
+
+
+updateIcon();
+
+
+
+button.addEventListener("click",function(){
+
+
+let dark =
+document.documentElement
+.getAttribute("data-theme")
+==="dark";
+
+
+
+if(dark){
+
+
+document.documentElement
+.removeAttribute("data-theme");
+
+
+localStorage.setItem(
+"theme",
+"light"
+);
+
+
+}
+
+else{
+
+
+document.documentElement
+.setAttribute(
+"data-theme",
+"dark"
+);
+
+
+localStorage.setItem(
+"theme",
+"dark"
+);
+
+
+}
+
+
+updateIcon();
+
+
+});
+
+
+})();
+
+</script>
+
+
+
+@await RenderSectionAsync("Scripts", required:false)
+
+
+</body>
+
+</html>

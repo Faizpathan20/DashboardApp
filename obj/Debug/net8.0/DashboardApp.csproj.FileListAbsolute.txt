@@ -1,0 +1,122 @@
+C:\Users\DELL\Desktop\DashboardApp\bin\Debug\net8.0\out\web.config
+C:\Users\DELL\Desktop\DashboardApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\DELL\Desktop\DashboardApp\bin\Debug\net8.0\appsettings.json
+C:\Users\DELL\Desktop\DashboardApp\bin\Debug\net8.0\out\appsettings.Development.json
+C:\Users\DELL\Desktop\DashboardApp\bin\Debug\net8.0\out\appsettings.json
+C:\Users\DELL\Desktop\DashboardApp\bin\Debug\net8.0\out\DashboardApp.deps.json
+C:\Users\DELL\Desktop\DashboardApp\bin\Debug\net8.0\out\DashboardApp.runtimeconfig.json
+C:\Users\DELL\Desktop\DashboardApp\bin\Debug\net8.0\out\DashboardApp.staticwebassets.endpoints.json
+C:\Users\DELL\Desktop\DashboardApp\bin\Debug\net8.0\DashboardApp.staticwebassets.runtime.json
+C:\Users\DELL\Desktop\DashboardApp\bin\Debug\net8.0\DashboardApp.staticwebassets.endpoints.json
+C:\Users\DELL\Desktop\DashboardApp\bin\Debug\net8.0\DashboardApp.exe
+C:\Users\DELL\Desktop\DashboardApp\bin\Debug\net8.0\DashboardApp.deps.json
+C:\Users\DELL\Desktop\DashboardApp\bin\Debug\net8.0\DashboardApp.runtimeconfig.json
+C:\Users\DELL\Desktop\DashboardApp\bin\Debug\net8.0\DashboardApp.dll
+C:\Users\DELL\Desktop\DashboardApp\bin\Debug\net8.0\DashboardApp.pdb
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net8.0\DashboardApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net8.0\DashboardApp.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net8.0\DashboardApp.AssemblyInfo.cs
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net8.0\DashboardApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net8.0\DashboardApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net8.0\DashboardApp.RazorAssemblyInfo.cache
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net8.0\DashboardApp.RazorAssemblyInfo.cs
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net8.0\scopedcss\scopedcss.cache
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net8.0\scopedcss\bundle\DashboardApp.styles.css
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net8.0\scopedcss\projectbundle\DashboardApp.bundle.scp.css
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net8.0\DashboardApp.dll
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net8.0\refint\DashboardApp.dll
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net8.0\DashboardApp.pdb
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net8.0\DashboardApp.genruntimeconfig.cache
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net8.0\ref\DashboardApp.dll
+C:\Users\DELL\Desktop\DashboardApp - Copy\bin\Debug\net8.0\out\web.config
+C:\Users\DELL\Desktop\DashboardApp - Copy\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\DELL\Desktop\DashboardApp - Copy\bin\Debug\net8.0\appsettings.json
+C:\Users\DELL\Desktop\DashboardApp - Copy\bin\Debug\net8.0\out\appsettings.Development.json
+C:\Users\DELL\Desktop\DashboardApp - Copy\bin\Debug\net8.0\out\appsettings.json
+C:\Users\DELL\Desktop\DashboardApp - Copy\bin\Debug\net8.0\out\DashboardApp.deps.json
+C:\Users\DELL\Desktop\DashboardApp - Copy\bin\Debug\net8.0\out\DashboardApp.runtimeconfig.json
+C:\Users\DELL\Desktop\DashboardApp - Copy\bin\Debug\net8.0\out\DashboardApp.staticwebassets.endpoints.json
+C:\Users\DELL\Desktop\DashboardApp - Copy\bin\Debug\net8.0\DashboardApp.staticwebassets.endpoints.json
+C:\Users\DELL\Desktop\DashboardApp - Copy\bin\Debug\net8.0\DashboardApp.staticwebassets.runtime.json
+C:\Users\DELL\Desktop\DashboardApp - Copy\bin\Debug\net8.0\DashboardApp.exe
+C:\Users\DELL\Desktop\DashboardApp - Copy\bin\Debug\net8.0\DashboardApp.deps.json
+C:\Users\DELL\Desktop\DashboardApp - Copy\bin\Debug\net8.0\DashboardApp.runtimeconfig.json
+C:\Users\DELL\Desktop\DashboardApp - Copy\bin\Debug\net8.0\DashboardApp.dll
+C:\Users\DELL\Desktop\DashboardApp - Copy\bin\Debug\net8.0\DashboardApp.pdb
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net8.0\DashboardApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net8.0\DashboardApp.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net8.0\DashboardApp.AssemblyInfo.cs
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net8.0\DashboardApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net8.0\DashboardApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net8.0\DashboardApp.RazorAssemblyInfo.cache
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net8.0\DashboardApp.RazorAssemblyInfo.cs
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net8.0\DashboardApp.sourcelink.json
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net8.0\scopedcss\scopedcss.cache
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net8.0\scopedcss\bundle\DashboardApp.styles.css
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net8.0\scopedcss\projectbundle\DashboardApp.bundle.scp.css
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net8.0\DashboardApp.dll
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net8.0\refint\DashboardApp.dll
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net8.0\DashboardApp.pdb
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net8.0\DashboardApp.genruntimeconfig.cache
+C:\Users\DELL\Desktop\DashboardApp - Copy\obj\Debug\net8.0\ref\DashboardApp.dll
+C:\Users\DELL\Desktop\DashboardApp\obj\Debug\net8.0\DashboardApp.sourcelink.json
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\bin\Debug\net8.0\out\web.config
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\bin\Debug\net8.0\appsettings.json
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\bin\Debug\net8.0\out\appsettings.Development.json
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\bin\Debug\net8.0\out\appsettings.json
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\bin\Debug\net8.0\out\DashboardApp.deps.json
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\bin\Debug\net8.0\out\DashboardApp.runtimeconfig.json
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\bin\Debug\net8.0\out\DashboardApp.staticwebassets.endpoints.json
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\bin\Debug\net8.0\DashboardApp.staticwebassets.runtime.json
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\bin\Debug\net8.0\DashboardApp.staticwebassets.endpoints.json
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\bin\Debug\net8.0\DashboardApp.exe
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\bin\Debug\net8.0\DashboardApp.deps.json
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\bin\Debug\net8.0\DashboardApp.runtimeconfig.json
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\bin\Debug\net8.0\DashboardApp.dll
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\bin\Debug\net8.0\DashboardApp.pdb
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\obj\Debug\net8.0\DashboardApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\obj\Debug\net8.0\DashboardApp.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\obj\Debug\net8.0\DashboardApp.AssemblyInfo.cs
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\obj\Debug\net8.0\DashboardApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\obj\Debug\net8.0\DashboardApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\obj\Debug\net8.0\DashboardApp.RazorAssemblyInfo.cache
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\obj\Debug\net8.0\DashboardApp.RazorAssemblyInfo.cs
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\obj\Debug\net8.0\scopedcss\scopedcss.cache
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\obj\Debug\net8.0\scopedcss\bundle\DashboardApp.styles.css
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\obj\Debug\net8.0\scopedcss\projectbundle\DashboardApp.bundle.scp.css
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\obj\Debug\net8.0\DashboardApp.dll
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\obj\Debug\net8.0\refint\DashboardApp.dll
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\obj\Debug\net8.0\DashboardApp.pdb
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\obj\Debug\net8.0\DashboardApp.genruntimeconfig.cache
+C:\Users\DELL\Desktop\DashboardApp\Dashboard\obj\Debug\net8.0\ref\DashboardApp.dll
